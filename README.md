@@ -1,3 +1,3 @@
 # threedot
 
-three dot DevOps file
+ThreeDot DevOps file
